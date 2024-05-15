@@ -127,6 +127,9 @@ ul {
   border-radius: 4px;
 }
 
+.news-list li {
+  text-decoration: none;
+}
 .news-list a:hover {
   background-color: #2d2d2b;
 }
